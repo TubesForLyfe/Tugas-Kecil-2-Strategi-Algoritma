@@ -3,7 +3,7 @@
 ### Deskripsi singkat program
 
 Program dalam bahasa Python untuk membuat sebuah pustaka (library) myConvexHull yang dapat mengembalikan convex hull dari kumpulan data 2 dimensi (dapat dianggap kumpulan 
-titik 2 dimensi).
+titik 2 dimensi). Program ini akan mengembalikan convex hull dari setiap label berupa list data pembentuk convex hull, lalu menampilkannya dengan warna yang berbeda.
 
 ### Requirement program dan instalasi
 
